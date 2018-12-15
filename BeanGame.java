@@ -1,6 +1,4 @@
 //BeanGame
-//Boach Co!!!
-//Boach Coagni!!!!
 
 public class BeanGame
 {
